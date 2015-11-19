@@ -3,7 +3,7 @@ sources:
   - repository: source_repo1
     class: shyft.orchestration2.netcdf.SourceDataset
     params:
-      stations_met: /home/hub-felixmatt/shyft-course_day2/atnsjoen_catchment/data/atnsjoen_met.nc
+      stations_met: /home/faltet/uio/shyft-course/atnsjoen_catchment/data/atnsjoen_met.nc
       types:
         - type: precipitation
           stations:
